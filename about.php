@@ -3,7 +3,9 @@
 Template Name: about-us
 */
 
-?><!--
+?>
+<!-- this is the trest -->
+<!--
         #about
         ========================== -->
         <section id="about">
